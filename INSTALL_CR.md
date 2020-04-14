@@ -1,4 +1,4 @@
-# Instalando uma custom recovery
+# Instalando custom recovery
   
 ### Atenção:
 ```diff
