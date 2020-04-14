@@ -22,7 +22,7 @@ Este repositório contém ferramentas e recursos para recuperar, atualizar e alt
 
 <p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-02.PNG"/></p>
 
-5. Verifique se todos os item carregados possuem o caminho correto, caso contrário clique na linha correspondente e selecione o arquivo equivalente presente na pasta extrída da ROM.
+5. Verifique se todos os item carregados possuem o caminho correto, caso contrário, clique na linha correspondente e selecione o arquivo equivalente presente na pasta extraída da ROM.
 
 6. Marque todas as caixas de seleção
 
@@ -33,4 +33,12 @@ Este repositório contém ferramentas e recursos para recuperar, atualizar e alt
 8. Selecione ```Format All + Download``` na caixa de seleção e clique em ```Download```
 
 <p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-04.PNG"/></p>
+
+9. Conecte o cabo USB e o processo de instação irá iniciar automaticamente
+
+<p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-05.PNG"/></p>
+
+10. Quando uma mensagem aparecer o processo haverá finalizado; basta desconectar o cabo USB e ligar o aparelho. 
+
+<p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-06.PNG"/></p>
 
