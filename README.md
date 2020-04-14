@@ -12,12 +12,25 @@ Este repositório contém ferramentas e recursos para recuperar, atualizar e alt
 
 ### Instalação
 
-1. Descomprimir os arquivos
+1. Extraia os arquivos
 2. Abra o arquivo ```flash_tool.exe```
 3. Clique em ```OK``` no diálogo que será exibido
 
 <p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-01.PNG"/></p>
 
-4. Clique em ```Scatter-loading``` e selecione o arquivo ```MT6582_Android_scatter``` que está na pasta extraida da ROM
+4. Clique em ```Scatter-loading``` e selecione o arquivo ```MT6582_Android_scatter``` que está na pasta extraída da ROM
 
 <p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-02.PNG"/></p>
+
+5. Verifique se todos os item carregados possuem o caminho correto, caso contrário clique na linha correspondente e selecione o arquivo equivalente presente na pasta extrída da ROM.
+
+6. Marque todas as caixas de seleção
+
+<p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-03.PNG"/></p>
+
+7. Desconecte o cabo USB e desligue o aparelho
+
+8. Selecione ```Format All + Download``` na caixa de seleção e clique em ```Download```
+
+<p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-04.PNG"/></p>
+
