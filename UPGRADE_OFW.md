@@ -4,7 +4,7 @@
 
 - <a href="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/INSTALL_OFW.md">ROM OFW 4.2.2 Instalada</a>
 - SP-Flash-Tool-5.1420.03
-- UPDATE-4.4.2-7040
+- UPDATE-4.4.2-7041D
 
 ### Instalação
 
