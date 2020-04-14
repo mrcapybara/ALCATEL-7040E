@@ -6,6 +6,7 @@
 - A execução deste procedimento pode resultar em danos permanentes. 
 - Não responsabilizo-me por qualquer dano causado, prossiga por sua conta e risco.
 - Ao executar este procedimento todos os dados do dispositivo serão perdidos.
++ Senha para descomprimir os arquivos: mrcapybara
 ```
 ### Requisitos:
 
