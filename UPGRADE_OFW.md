@@ -6,6 +6,7 @@
 - Não responsabilizo-me por qualquer dano causado, prossiga por sua conta e risco.  
 - Este update foi projetado para o modelo 7041D, entretanto é possível instalá-lo no 7040E. 
 - É imprescindível a instalação da ROM OFW 4.2.2 antes de iniciar este procedimento.
++ Senha para descomprimir os arquivos: mrcapybara
 ```
 ### Requisitos:
 
