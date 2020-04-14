@@ -1,5 +1,5 @@
 # ALCATEL-7040E
-Este repositório contém ferramentas e recursos para recuperar, atualizar e alterar a rom do ALCATEL 7040E
+Este repositório contém ferramentas e recursos para recuperar, atualizar e alterar a ROM do ALCATEL 7040E
 
 ### Atenção:
 ```diff
@@ -9,5 +9,11 @@ Este repositório contém ferramentas e recursos para recuperar, atualizar e alt
 ```
 
 ### Índice:
-- #### <a href="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/INSTALL_OFW.md">Instalando a ROM Original (OFW 4.2.2)</a>
+- #### <a href="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/INSTALL_OFW.md">Instalando ROM Original (OFW 4.2.2)</a>
 - #### <a href="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/UPGRADE_OFW.md">Atualizando OFW 4.2.2 para OFW 4.4.2</a>
+- #### Fazendo backup da ROM, IMEI e NVRAM
+- #### Instalando custom recovery
+- #### Alterando tamanho da partição do sistema
+- #### Instalando OFW 4.2.2 com tamanho de partição alterada
+- #### Atualizando OFW 4.2.2 para OFW 4.4.2 com tamanho de partição alterada
+- #### Instalando CFW (LineAgeOS 14.1)
