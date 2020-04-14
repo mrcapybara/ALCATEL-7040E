@@ -8,5 +8,6 @@ Este repositório contém ferramentas e recursos para recuperar, atualizar e alt
 + Senha para descomprimir os arquivos: mrcapybara
 ```
 
-- ### <a href="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/INSTALL_OFW.md">Instalando a ROM Original (OFW 4.2.2)</a>
-- ### <a href="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/UPGRADE_OFW.md">Atualizando OFW 4.2.2 para OFW 4.4.2</a>
+### Índice:
+- #### <a href="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/INSTALL_OFW.md">Instalando a ROM Original (OFW 4.2.2)</a>
+- #### <a href="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/UPGRADE_OFW.md">Atualizando OFW 4.2.2 para OFW 4.4.2</a>
