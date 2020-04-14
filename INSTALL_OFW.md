@@ -1,5 +1,5 @@
 
-## Instalando a ROM Original (OFW 4.2.2)
+# Instalando a ROM Original (OFW 4.2.2)
 
 ### Requisitos:
 
