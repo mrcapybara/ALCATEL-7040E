@@ -37,3 +37,7 @@
 10. Quando uma mensagem aparecer o processo haverá finalizado; basta desconectar o cabo USB e ligar o aparelho. 
 
 <p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-06.PNG"/></p>
+
+#### ROM Instalada
+
+<p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-07.png"/></p>
