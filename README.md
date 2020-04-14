@@ -34,9 +34,9 @@ Este repositório contém ferramentas e recursos para recuperar, atualizar e alt
 
 <p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-04.PNG"/></p>
 
-9. Conecte o cabo USB e o processo de instação irá iniciar automaticamente
+9. Conecte o cabo USB e o processo de instalação iniciará automaticamente
 
-<p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-05.PNG"/></p>
+<p align="center"><img align="center" width="700" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-05.PNG"/></p>
 
 10. Quando uma mensagem aparecer o processo haverá finalizado; basta desconectar o cabo USB e ligar o aparelho. 
 
