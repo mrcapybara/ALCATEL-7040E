@@ -14,12 +14,12 @@
 
 <p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-01.PNG"/></p>
 
-4. Clique em ```Scatter-loading``` e selecione o arquivo ```MT6582_Android_scatter``` que está na pasta extraída da ROM
+4. Clique em ```Scatter-loading``` e selecione o arquivo ```MT6582_Android_scatter``` que está na pasta extraída do UPDATE
 
 <p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-02.PNG"/></p>
 
 5. Marques as caixas de seleção de acordo com a imagem e verifique se os caminhos delas estão de acordo com os arquivos extraídos. 
-Caso contrário, clique na linha correspondente e selecione o arquivo equivalente presente na pasta extraída da ROM.
+Caso contrário, clique na linha correspondente e selecione o arquivo equivalente presente na pasta extraída do UPDATE.
 
 <p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPUP-01.PNG"/></p>
 
