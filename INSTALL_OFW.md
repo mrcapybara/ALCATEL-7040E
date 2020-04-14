@@ -38,6 +38,6 @@
 
 <p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-06.PNG"/></p>
 
-#### ROM Instalada
+- #### ROM Instalada
 
 <p align="center"><img align="center" width="200" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-07.png"/></p>
