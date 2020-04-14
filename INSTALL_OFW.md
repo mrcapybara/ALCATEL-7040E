@@ -1,12 +1,18 @@
 
 # Instalando a ROM Original (OFW 4.2.2)
 
+### Atenção:
+```diff
+- A execução deste procedimento pode resultar em danos permanentes. 
+- Não responsabilizo-me por qualquer dano causado, prossiga por sua conta e risco.
+- Ao executar este procedimento todos os dados do dispositivo serão perdidos.
+```
 ### Requisitos:
 
 - SP-Flash-Tool-5.1420.03
 - OFW-4.2.2-7040E
 
-### Instalação
+### Instalação:
 
 1. Extraia os arquivos
 2. Abra o arquivo ```flash_tool.exe```
@@ -38,6 +44,6 @@
 
 <p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-06.PNG"/></p>
 
-- #### Informações da ROM Instalada
+- #### Informações da ROM Instalada:
 
 <p align="center"><img align="center" width="200" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-07.png"/></p>
