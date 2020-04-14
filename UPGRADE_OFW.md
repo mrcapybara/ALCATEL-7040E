@@ -1,4 +1,4 @@
-# Atualizando a OFW 4.2.2 para OFW 4.4.2
+# Atualizando OFW 4.2.2 para OFW 4.4.2
 
 ### Requisitos:
 
