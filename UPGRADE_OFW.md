@@ -1,12 +1,19 @@
 # Atualizando OFW 4.2.2 para OFW 4.4.2
-
+  
+### Atenção:
+```diff
+- A execução deste procedimento pode resultar em danos permanentes. 
+- Não responsabilizo-me por qualquer dano causado, prossiga por sua conta e risco.  
+- Este update foi projetado para o modelo 7041D, entretanto é possível instalá-lo no 7040E. 
+- É imprescindível a instalação da ROM OFW 4.2.2 antes de iniciar este procedimento.
+```
 ### Requisitos:
 
 - <a href="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/INSTALL_OFW.md">ROM OFW 4.2.2 Instalada</a>
 - SP-Flash-Tool-5.1420.03
 - UPDATE-4.4.2-7041D
 
-### Instalação
+### Instalação:
 
 1. Extraia os arquivos
 2. Abra o arquivo ```flash_tool.exe```
@@ -37,6 +44,6 @@ Caso contrário, clique na linha correspondente e selecione o arquivo equivalent
 
 <p align="center"><img align="center" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-06.PNG"/></p>
 
-- #### Informações da ROM Instalada
+- #### Informações da ROM Instalada:
 
-<p align="center"><img align="center" width="200" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPFT-07.png"/></p>
+<p align="center"><img align="center" width="200" src="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/Imagens/SPUP-04.png"/></p>
