@@ -4,6 +4,7 @@
 ```diff
 - O programa MTK Partition Editor 0.5 poderá ser identificado como vírus.
 - Caso não queira utilizá-lo baixe a partição já criada de 1GB.
+- Não responsabilizo-me por qualquer dano causado, prossiga por sua conta e risco.  
 + Senha para descomprimir os arquivos: mrcapybara
 ```
 
@@ -61,7 +62,7 @@ clicando na partição ```ANDROID```
 
 12. Note que o tamanho do sistema agora é de 1GB e o tamanho do ```CACHE``` voltou ao que estava por padrão
 
-13. Salve os arquivos clicando em ```File``` depois em ```Save```. Clique em ```SIM``` na mensagem que aparecer. 
+13. Salve os arquivos clicando em ```File``` depois em ```Save```. Clique em ```Sim``` na mensagem que aparecer. 
 
 14. Pronto, os arquivos estão prontos para serem gravados no aparelho
 
