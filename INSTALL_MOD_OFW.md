@@ -50,3 +50,9 @@
 11. Quando uma mensagem aparecer o processo haverá finalizado; basta desconectar o cabo USB e ligar o aparelho. 
 
 <p align="center"><img align="center" src="/Imagens/SPFT-06.PNG"/></p>
+
+### Nota:
+
+Ao finalizar este procedimento provavelmente o aparelho ficará sem os números de IMEI. Verifique-os para ter certeza.
+Neste caso será necessário fazer o <a href="UPDATE_MOD_OFW.md">upgrade do sistema para a versão 4.4.2</a> e <a href="INSTALL_ROOT.md">rootear o aparelho</a> para recuperá-los.
+
