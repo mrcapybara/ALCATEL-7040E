@@ -17,4 +17,5 @@ Este repositório contém ferramentas e recursos para recuperar, atualizar e alt
 - #### <a href="ALTER_SYS.md">Alterando o tamanho da partição do sistema</a>
 - #### <a href="INSTALL_MOD_OFW.md">Instalando OFW 4.2.2 com tamanho de partição alterada</a>
 - #### <a href="UPDATE_MOD_OFW.md">Atualizando OFW 4.2.2 para OFW 4.4.2 com tamanho de partição alterada</a>
+- #### <a href="REC_IMEI.md">Recuperando o IMEI</a>
 - #### Instalando CFW (LineAgeOS 14.1)
