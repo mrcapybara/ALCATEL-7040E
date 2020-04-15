@@ -4,6 +4,7 @@
 ```diff
 - O programa MTK Partition Editor 0.5 poderá ser identificado como vírus.
 - Caso não queira utilizá-lo baixe a partição já criada de 1GB.
++ Senha para descomprimir os arquivos: mrcapybara
 ```
 
 ### Alternativo:
