@@ -14,7 +14,7 @@
 - Custom recovery: TWRP 3.1.0-0 ou CTR 3.3
 - Arquivo ```MT6582_Android_scatter``` da ROM:
   - Partição padrão: presente no ```UPDATE-4.4.2-7041D``` ou aqui
-  - Partição modificada: exportado pelo ```...```
+  - Partição modificada: exportado pelo ```MTK Partition Editor 0.5```
   
 ### Instalação:
 
