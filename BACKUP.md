@@ -1,4 +1,4 @@
-# Instalando ROM Original (OFW 4.2.2)
+# Fazendo backup da ROM, IMEI e NVRAM
 
 ### Atenção:
 ```diff
