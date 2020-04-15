@@ -37,5 +37,5 @@
 
 <p align="center" width="600"><img align="center" src="Imagens/MTBK-05.PNG"/></p>
 
-10. Pronto, todos os arquivos estarão salvos nas pastas de backup do programa
+10. Pronto, todos os arquivos estarão salvos nas pastas de backups do programa
 
