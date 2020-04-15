@@ -55,3 +55,8 @@ Caso contrário, clique na linha correspondente e selecione o arquivo equivalent
 - #### Informações da ROM Instalada:
 
 <p align="center"><img align="center" width="200" src="/Imagens/SPUP-04.png"/></p>
+
+### Nota:
+
+Ao finalizar este procedimento provavelmente o aparelho ficará sem os números de IMEI. Verifique-os para ter certeza.
+Neste caso será necessário <a href="INSTALL_ROOT.md">rootear o aparelho</a> para recuperá-los.
