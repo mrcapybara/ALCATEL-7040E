@@ -16,5 +16,5 @@ Este repositório contém ferramentas e recursos para recuperar, atualizar e alt
 - #### <a href="BACKUP.md">Fazendo backup da ROM, IMEI e NVRAM</a>
 - #### <a href="ALTER_SYS.md">Alterando o tamanho da partição do sistema</a>
 - #### <a href="INSTALL_MOD_OFW.md">Instalando OFW 4.2.2 com tamanho de partição alterada</a>
-- #### Atualizando OFW 4.2.2 para OFW 4.4.2 com tamanho de partição alterada
+- #### <a href="UPDATE_MOD_OFW.md">Atualizando OFW 4.2.2 para OFW 4.4.2 com tamanho de partição alterada</a>
 - #### Instalando CFW (LineAgeOS 14.1)
