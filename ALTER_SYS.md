@@ -1,4 +1,4 @@
-# Alterando tamanho da partição do sistema
+# Alterando o tamanho da partição do sistema
 
 ### Atenção:
 ```diff
