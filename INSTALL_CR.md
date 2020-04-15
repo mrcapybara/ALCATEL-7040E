@@ -9,7 +9,7 @@
 ```
 ### Requisitos:
 
-- <a href="/UPGRADE_OFW.md">Atualização 4.4.2 Instalada</a>
+- Atualização 4.4.2 instalada com <a href="/UPDATE_OFW.md">partição padrão</a> ou com <a href="/UPDATE_MOD_OFW.md">partição modificada</a>
 - SP Flash Tool
 - Custom recovery: TWRP 3.1.0-0 ou CTR 3.3
 - Arquivo ```MT6582_Android_scatter``` da ROM:
