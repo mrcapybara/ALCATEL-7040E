@@ -10,7 +10,7 @@ Este repositório contém ferramentas e recursos para recuperar, atualizar e alt
 
 ### Índice:
 - #### <a href="INSTALL_OFW.md">Instalando ROM Original (OFW 4.2.2)</a>
-- #### <a href="UPGRADE_OFW.md">Atualizando OFW 4.2.2 para OFW 4.4.2</a>
+- #### <a href="UPDATE_OFW.md">Atualizando OFW 4.2.2 para OFW 4.4.2</a>
 - #### <a href="INSTALL_CR.md">Instalando custom recovery</a>
 - #### <a href="INSTALL_ROOT.md">Instalando ROOT</a>
 - #### <a href="BACKUP.md">Fazendo backup da ROM, IMEI e NVRAM</a>
