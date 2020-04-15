@@ -10,7 +10,7 @@
 ### Requisitos:
 
 - <a href="/UPGRADE_OFW.md">Atualização 4.4.2 Instalada</a>
-- SP-Flash-Tool-5.1420.03
+- SP Flash Tool
 - Custom recovery: TWRP 3.1.0-0 ou CTR 3.3
 - Arquivo ```MT6582_Android_scatter``` da ROM:
   - Partição padrão: presente no ```UPDATE-4.4.2-7041D``` ou aqui
