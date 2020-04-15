@@ -33,7 +33,7 @@
 
 <p align="center" width="600"><img align="center" src="Imagens/MTBK-04.PNG"/></p>
 
-9. Para o backup dos demais dados clique em ```root, backup, recovery``` e depois em ```Backup``` (este processo poderá demorar bastante)
+9. Para o backup dos demais dados: clique na aba ```root, backup, recovery``` e depois em ```Backup``` (este processo poderá demorar bastante)
 
 <p align="center" width="600"><img align="center" src="Imagens/MTBK-05.PNG"/></p>
 
