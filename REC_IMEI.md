@@ -10,7 +10,7 @@
 
 - Atualização 4.4.2 instalada com <a href="/UPDATE_OFW.md">partição padrão</a> ou com <a href="/UPDATE_MOD_OFW.md">partição modificada</a>
 - <a href="/INSTALL_ROOT.md">Aparelho com ROOT</a>
-- MTK Droid Tools
+- MTK Droid Tools 2.5.3
 
 ### Instalação:
 
