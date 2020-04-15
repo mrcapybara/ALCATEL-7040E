@@ -18,4 +18,5 @@
 2. Inicie o aparelho em modo recovery (```VOL_UP + POWER```)
 3. Selecione a opção de ```Install``` ou ```Install Zip```
 4. Selecione o arquivo de ROOT e instale-o
+5. Limpe os caches: ```Wipe Cache``` e ```Wipe Dalvik Cache```
 5. Feito, basta reiniciar o aparelho
