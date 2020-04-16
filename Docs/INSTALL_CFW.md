@@ -1,5 +1,5 @@
 
-# Instalando ROOT
+# Instalando CFW (LineageOS 14.1)
 
 ### Atenção:
 ```diff
