@@ -9,13 +9,13 @@ Este repositório contém ferramentas e recursos para recuperar, atualizar e alt
 ```
 
 ### Índice:
-- #### <a href="INSTALL_OFW.md">Instalando ROM Original (OFW 4.2.2)</a>
-- #### <a href="UPDATE_OFW.md">Atualizando OFW 4.2.2 para OFW 4.4.2</a>
-- #### <a href="INSTALL_CR.md">Instalando custom recovery</a>
-- #### <a href="INSTALL_ROOT.md">Instalando ROOT</a>
-- #### <a href="BACKUP.md">Fazendo backup da ROM, IMEI e NVRAM</a>
-- #### <a href="ALTER_SYS.md">Alterando o tamanho da partição do sistema</a>
-- #### <a href="INSTALL_MOD_OFW.md">Instalando OFW 4.2.2 com tamanho de partição alterada</a>
-- #### <a href="UPDATE_MOD_OFW.md">Atualizando OFW 4.2.2 para OFW 4.4.2 com tamanho de partição alterada</a>
-- #### <a href="REC_IMEI.md">Recuperando o IMEI</a>
-- #### Instalando CFW (LineAgeOS 14.1)
+- #### <a href="Docs/INSTALL_OFW.md">Instalando ROM Original (OFW 4.2.2)</a>
+- #### <a href="Docs/UPDATE_OFW.md">Atualizando OFW 4.2.2 para OFW 4.4.2</a>
+- #### <a href="Docs/INSTALL_CR.md">Instalando custom recovery</a>
+- #### <a href="Docs/INSTALL_ROOT.md">Instalando ROOT</a>
+- #### <a href="Docs/BACKUP.md">Fazendo backup da ROM, IMEI e NVRAM</a>
+- #### <a href="Docs/ALTER_SYS.md">Alterando o tamanho da partição do sistema</a>
+- #### <a href="Docs/INSTALL_MOD_OFW.md">Instalando OFW 4.2.2 com tamanho de partição alterada</a>
+- #### <a href="Docs/UPDATE_MOD_OFW.md">Atualizando OFW 4.2.2 para OFW 4.4.2 com tamanho de partição alterada</a>
+- #### <a href="Docs/REC_IMEI.md">Recuperando o IMEI</a>
+- #### <a href="Docs/INSTALL_CFW.md">Instalando CFW (LineageOS 14.1)</a>
