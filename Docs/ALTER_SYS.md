@@ -9,12 +9,12 @@
 ```
 
 ### Alternativo:
-- <a href="">Arquivos modificados para partição de 1GB</a>
+- <a href="/Extras/Partition-1GB/">Arquivos modificados para partição de 1GB</a>
 
 ### Requisitos:
 
-- <a href="">MTK Partition Editor 0.5</a>
-- Seguintes arquivos da ROM OFW 4.2.2:
+- <a href="/Ferramentas/MTK-Partition-Editor-0.5.7z">MTK Partition Editor 0.5</a>
+- Seguintes arquivos da ROM OFW 4.2.2 (ou arquivos alternativos):
   - ```MT6582_Android_scatter```
   - ```MBR```
   - ```EBR1```
