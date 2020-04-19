@@ -7,9 +7,9 @@
 ```
 ### Requisitos:
 
-- <a href="/UPGRADE_OFW.md">Atualização 4.4.2 instalada</a>
-- <a href="/INSTALL_ROOT.md">Aparelho com ROOT</a>
-- MTK Droid Tools
+- <a href="/Docs/UPGRADE_OFW.md">Atualização 4.4.2 instalada</a>
+- <a href="/Docs/INSTALL_ROOT.md">Aparelho com ROOT</a>
+- <a href="/Ferramentas/MTK-Droid-Tools-2.5.3.7z">MTK Droid Tools</a>
 
 ### Instalação:
 
