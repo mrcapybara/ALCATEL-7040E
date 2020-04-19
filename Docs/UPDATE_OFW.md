@@ -10,9 +10,9 @@
 ```
 ### Requisitos:
 
-- <a href="https://github.com/mrcapybara/ALCATEL-7040E/blob/master/INSTALL_OFW.md">ROM OFW 4.2.2 Instalada</a>
-- SP-Flash-Tool-5.1420.03
-- UPDATE-4.4.2-7041D
+- <a href="/Ferramentas/SP-Flash-Tool-5.1420.03.7z">SP Flash Tool 5.1420.03</a>
+- <a href="/Docs/INSTALL_OFW.md">ROM OFW 4.2.2 Instalada</a>
+- <a href="/Roms/UPDATE 4.4.2">UPDATE 4.4.2</a>
 
 ### Instalação:
 
