@@ -10,8 +10,8 @@
 
 - <a href="/Docs/UPDATE_MOD_OFW.md">Atualização 4.4.2 instalada com partição modificada</a>
 - <a href="/Docs/INSTALL_CR.md">Custom recovery</a>
-- Custom ROM: <a href="">LineageOS 14.1</a> ou alguma de sua preferência
-- Open GApps para ARM: <a href="">Versão 7.1 para LineageOS</a> ou alguma compatível com a rom a ser instalada
+- Custom ROM: <a href="/Roms/LINEAGEOS 14.1">LineageOS 14.1</a> ou alguma de sua preferência
+- Open GApps para ARM: <a href="/Extras/Open-GApps">Versão 7.1 para LineageOS</a> ou alguma compatível com a rom a ser instalada
 
 ### Instalação:
 
