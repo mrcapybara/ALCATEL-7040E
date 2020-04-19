@@ -10,8 +10,8 @@
 ```
 ### Requisitos:
 
-- SP-Flash-Tool-5.1420.03
-- OFW-4.2.2-7040E
+- <a href="/Ferramentas/SP-Flash-Tool-5.1420.03.7z">SP Flash Tool 5.1420.03</a>
+- <a href="/Roms/OFW 4.2.2">Rom OFW 4.2.2</a>
 
 ### Instalação:
 
