@@ -8,9 +8,9 @@
 ```
 ### Requisitos:
 
-- Atualização 4.4.2 instalada com <a href="/UPDATE_OFW.md">partição padrão</a> ou com <a href="/UPDATE_MOD_OFW.md">partição modificada</a>
-- <a href="/INSTALL_CR.md">Custom recovery </a>
-- Arquivo de ROOT
+- Atualização 4.4.2 instalada com <a href="/Docs/UPDATE_OFW.md">partição padrão</a> ou com <a href="/Docs/UPDATE_MOD_OFW.md">partição modificada</a>
+- <a href="/Docs/INSTALL_CR.md">Custom recovery</a>
+- <a href="/Extras/root-file.zip">Arquivo de ROOT</a>
 
 ### Instalação:
 
