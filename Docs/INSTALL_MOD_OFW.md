@@ -10,8 +10,8 @@
 ```
 ### Requisitos:
 
-- <a href="">SP Flash Tool 5.1420.03</a>
-- <a href="">OFW 4.2.2</a>
+- <a href="/Ferramentas/SP-Flash-Tool-5.1420.03.7z">SP Flash Tool 5.1420.03</a>
+- <a href="/Roms/OFW 4.2.2/">OFW 4.2.2</a>
 - Arquivos de partição modificados:
   - ```MT6582_Android_scatter```
   - ```MBR```
