@@ -11,9 +11,9 @@
 ```
 ### Requisitos:
 
-- <a href="">SP Flash Tool 5.1420.03</a>
-- <a href="">Arquivos do UPDATE 4.4.2</a>
-- <a href="INSTALL_MOD_OFW.md">ROM OFW 4.2.2 com partição modificada instalada</a>
+- <a href="/Ferramentas/SP-Flash-Tool-5.1420.03.7z">SP Flash Tool 5.1420.03</a>
+- <a href="/Roms/UPDATE 4.4.2/">Arquivos do UPDATE 4.4.2</a>
+- <a href="/Docs/INSTALL_MOD_OFW.md">ROM OFW 4.2.2 com partição modificada instalada</a>
 - Arquivos de partição modificados (os mesmos utilizados na instalação do item acima):
   - ```MT6582_Android_scatter```
   - ```MBR```
@@ -59,4 +59,4 @@ Caso contrário, clique na linha correspondente e selecione o arquivo equivalent
 ### Nota:
 
 Ao finalizar este procedimento provavelmente o aparelho ficará sem os números de IMEI. Verifique-os para ter certeza.
-Neste caso será necessário <a href="INSTALL_ROOT.md">rootear o aparelho</a> para recuperá-los.
+Neste caso será necessário <a href="/Docs/INSTALL_ROOT.md">rootear o aparelho</a> e seguir <a href="/Docs/REC_IMEI.md">este procedimento</a> para recuperá-los.
