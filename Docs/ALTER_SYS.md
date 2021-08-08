@@ -38,7 +38,7 @@
 ```
 
 6. Note que entre a partição do sistema (```ANDROID```) e partição de dados (```USRDATA```) há a partição ```CACHE```. 
-Portanto não podemos simplismente aumentar a partição do sistema, pois, ao fazer isto, ela irá sobreescrever toda a 
+Portanto não podemos simplesmente aumentar a partição do sistema, pois, ao fazer isto, ela irá sobreescrever toda a 
 partição ```CACHE```.
 
 <p align="center" width="500"><img align="center" src="/Imagens/MTSYS-02.PNG"/></p>
@@ -46,7 +46,7 @@ partição ```CACHE```.
 7. Neste caso vamos aumentar a partição ```CACHE``` primeiro. Como queremos 1GB para o sistema, teremos que aumentá-la em 411MB, 
 pois: 1024MB - 613MB = 411MB.
 
-8. Para altera o valor da partição basta clicar com o botão direito sobre a linha e clicar em ```Change Size```
+8. Para alterar o valor da partição basta clicar com o botão direito sobre a linha e clicar em ```Change Size```
 
 9. Na nova janela que abrirá, altere o tamanho para 724MB, pois seu tamanho é de 313MB. Logo, 313MB + 411MB = 724MB.
 Posteriormente clique em ```OK```
